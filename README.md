@@ -12,4 +12,4 @@ Es uno de los pilares del Análisis Exploratorio de Datos o EDA.
 Este repositorio contiene los estadísticos básicos de un EDA, con la explicación teórica de cada medida y el código para poder calcularlas
 utilizando las librerías de datos Pandas y Numpy. 
 
-👏 ¡Por favor, dame un ⭐️ si te gusta este proyecto!
+# ¡Por favor, dame un ⭐️ si te gusta este proyecto! 👏
